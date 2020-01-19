@@ -1,2 +1,2 @@
 # Kannada_MNIST_Kaggle
-for a kaggle competition kannada competition
+For a kaggle competition [kannada-mnist-digit recognition](https://www.kaggle.com/c/Kannada-MNIST).
